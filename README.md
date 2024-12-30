@@ -1,3 +1,3 @@
-#MacroPong
+# MacroPong
 
 This game requires rustc. 
